@@ -1,0 +1,9 @@
+Origin: TLMod (roothide)
+Label: TLMod (roothide)
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e
+Components: main
+Description: TL Mod iOS tweak repo for Dopamine roothide
+Date: Sun, 11 Oct 2026 15:41:39 +0000
