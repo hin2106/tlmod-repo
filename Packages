@@ -270,3 +270,19 @@ MD5sum: c9a36375b794e09cc4e77aa9ccd446f3
 SHA1: dea7e0d7dbaf726c9186d41634e8b4b24a07baeb
 SHA256: ec3980b3446fbad42627c8f573703a3833bbba5d345a1a4dfb455a68bf03b93d
 
+Package: com.tlmod.ios
+Name: TL Mod iOS (roothide)
+Description: TL Mod iOS tweak (roothide)
+Maintainer: TL
+Author: TL
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Version: 1.0.0-27
+Installed-Size: 108
+Filename: debs/TLMod(roothide)_1.0.0-27_iphoneos-arm64e.deb
+Size: 1776170
+MD5sum: f2cd0043db93f89ec541bbc16da3b993
+SHA1: 9a525490f9bdf046323b93fa5bc650a0efac76b8
+SHA256: 7d6336bf980bbd0620389d899add812e3cbe8dbadac4d1e5110e0df574050220
+
