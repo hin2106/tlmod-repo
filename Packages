@@ -89,8 +89,8 @@ Architecture: iphoneos-arm64e
 Version: 1.0.0-8-2
 Installed-Size: 108
 Filename: debs/TLMod(roothide)_1.0.0-8-2_iphoneos-arm64e.deb
-Size: 1771562
-MD5sum: 2e30cabd7f3cdcf1d560b64793db404f
-SHA1: 626a7ef4bfbeac85f274f4d27d06b647c7644317
-SHA256: 478da50331d65f92e12daf43dcdd5ff70e94a47767d944a0ee56a1ed9e3dfda5
+Size: 1771806
+MD5sum: 5ef481abe5489bc288283360ab5d55d8
+SHA1: d6d44d13d17256f30be39471efcc151dbcf28e8e
+SHA256: dee2c2dd03a053f23c3379bafbad458a61261bf6e649d4b3d9c4317cb6b69138
 
